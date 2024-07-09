@@ -190,4 +190,4 @@ webencodings==0.5.1
 Werkzeug==2.0.2
 wrapt==1.13.3
 yaspin==2.1.0
-zipp==3.6.0
+zipp==3.19.1
